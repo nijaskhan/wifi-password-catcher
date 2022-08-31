@@ -1,5 +1,5 @@
 # wifi-password-catcher
-will automatically catch saved wifi passowords in victim's laptop
+will automatically catch saved wifi passowords from victim's laptop
 
 we provided wifipassCatcher.exe (executable file) 
 And python code of the software.
